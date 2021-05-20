@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## My name is Dhruv Shetty and I'm currently pursuing my 3rd year of Btech in PES university, India
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Some1Somewhere&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 ![Dhruv Shetty's Github stats](https://github-readme-stats.vercel.app/api?username=Some1Somewhere&count_private=true&theme=tokyonight)
