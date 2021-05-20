@@ -7,7 +7,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Some1Somewhere&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-##<img src="https://raw.githubusercontent.com/Some1Somewhere/Some1Somewhere/main/WhiteLogoTransparent.png" width="30px">Pyramid Developers(https://pyramiddeveloper.com)
+<img src="https://raw.githubusercontent.com/Some1Somewhere/Some1Somewhere/main/WhiteLogoTransparent.png" width="100px">
+## [Pyramid Developers](https://pyramiddeveloper.com)
 
 [![What am I listening to Right now?](https://spotify-github-profile.vercel.app/api/view?uid=21xln4kwhs65g7kpb7r6hrici&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21xln4kwhs65g7kpb7r6hrici&redirect=true)
 
