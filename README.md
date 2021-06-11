@@ -46,8 +46,6 @@ If you want to check out more information <a href = "https://www.linkedin.com/in
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Some1Somewhere&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![What am I listening to Right now?](https://spotify-github-profile.vercel.app/api/view?uid=21xln4kwhs65g7kpb7r6hrici&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21xln4kwhs65g7kpb7r6hrici&redirect=true)
-
 <!--
 **Some1Somewhere/Some1Somewhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
