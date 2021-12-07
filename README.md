@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 # My name is Dhruv Shetty 
-I'm currently pursuing my 3rd year of Btech in PES university, India
+I'm currently pursuing my 4th year of Btech CS in PES university, India
 <br>
 <a href="https://pyramiddeveloper.com/" title="Pyramid Developers"><img img align="left"  src="WhiteLogoTransparent.png" width="80px"/></a>
 I create low cost software solutions for all kinds of requirements at low cost by working with a team of student developers through 
