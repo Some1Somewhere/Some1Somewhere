@@ -34,10 +34,12 @@ I create low cost software solutions for all kinds of requirements at low cost b
 **Reach me through :**
 <p>
 <a href = "http://instagram.com/dhruv__shetty" ><img src="https://img.shields.io/badge/Dhruv__Shetty%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href = "mailto:dhruvshetty3@gmail.com?subject=From your Github Profile" >	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href = "mailto:dhruvshetty.business@gmail.com?subject=From your Github Profile" >	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	 <a href="https://wa.me/14709021657?text=Hey, I came from your Github Profile. I have to say it's very cool!">
+	<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <a href = "https://twitter.com/SomeGSomewhere" >		<img alt="Twitter" src="https://img.shields.io/badge/Dhruv_Shetty-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
-  <a href="https://wa.me/14709021657?text=Hey, I came from your Github Profile. I have to say it's very cool!">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+ 
+
 <a href="https://www.reddit.com/user/Some1Somevvhere"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 </p>
