@@ -1,6 +1,10 @@
+<a href="https://cs.nyu.edu/ms-cei/index.html" title="MS-CEI in NYU"><img img align="right" src="https://yt3.ggpht.com/-RZYi5isxH_M/AAAAAAAAAAI/AAAAAAAAAAA/rmWpoe2qZzI/s900-c-k-no/photo.jpg" width="100px"/> </a>
+
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
 # My name is Dhruv Shetty 
-I'm currently pursuing my 4th year of Btech CS in PES university, India
+I'm currently pursuing my <b>Masters in <i>Computing, Entrepreneurship and Innovation</i></b> at <b>New York University</b> 
+<br>
 <br>
 <a href="https://pyramiddeveloper.com/" title="Pyramid Developers"><img img align="left"  src="WhiteLogoTransparent.png" width="80px"/></a>
 I create low cost software solutions for all kinds of requirements at low cost by working with a team of student developers through 
@@ -8,21 +12,6 @@ I create low cost software solutions for all kinds of requirements at low cost b
  <br>
 <br>
 <br>
-
-
-
-**Reach me through :**
-<p>
-<a href = "http://instagram.com/dhruv__shetty" ><img src="https://img.shields.io/badge/Dhruv__Shetty%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href = "mailto:dhruvshetty3@gmail.com?subject=From your Github Profile" >	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://twitter.com/SomeGSomewhere" >		<img alt="Twitter" src="https://img.shields.io/badge/Dhruv_Shetty-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
-  <a href="https://wa.me/919845309776?text=Hey, I came from your Github Profile. I have to say it's very cool!">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<a href="https://www.reddit.com/user/Some1Somevvhere"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
-</p>
-If you want to check out more information <a href = "https://www.linkedin.com/in/dhruv-k-shetty/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<hr>
 
 **I can work with**
 <br>
@@ -40,6 +29,22 @@ If you want to check out more information <a href = "https://www.linkedin.com/in
 	<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 	<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <hr>
+
+
+**Reach me through :**
+<p>
+<a href = "http://instagram.com/dhruv__shetty" ><img src="https://img.shields.io/badge/Dhruv__Shetty%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href = "mailto:dhruvshetty3@gmail.com?subject=From your Github Profile" >	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href = "https://twitter.com/SomeGSomewhere" >		<img alt="Twitter" src="https://img.shields.io/badge/Dhruv_Shetty-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+  <a href="https://wa.me/14709021657?text=Hey, I came from your Github Profile. I have to say it's very cool!">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://www.reddit.com/user/Some1Somevvhere"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+</p>
+If you want to check out more information <a href = "https://www.linkedin.com/in/dhruv-k-shetty/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<hr>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Some1Somewhere&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 ![Dhruv Shetty's Github stats](https://github-readme-stats.vercel.app/api?username=Some1Somewhere&count_private=true&theme=tokyonight)
