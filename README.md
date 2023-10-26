@@ -1,36 +1,73 @@
 <a href="https://cs.nyu.edu/ms-cei/index.html" title="MS-CEI in NYU"><img img align="right" src="https://yt3.ggpht.com/-RZYi5isxH_M/AAAAAAAAAAI/AAAAAAAAAAA/rmWpoe2qZzI/s900-c-k-no/photo.jpg" width="100px"/> </a>
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-# My name is Dhruv Shetty 
-I'm currently pursuing my <b>Masters in <i>Computing, Entrepreneurship and Innovation</i></b> at <b>New York University</b> 
+# I'm Dhruv Shetty
+I'm pursuing my Master's in **Computing, Entrepreneurship, and Innovation** at **New York University**. A technophile and entrepreneur by heart.
+  
 <br>
-<br>
+
 <a href="https://pyramiddeveloper.com/" title="Pyramid Developers"><img img align="left"  src="WhiteLogoTransparent.png" width="80px"/></a>
-I create low cost software solutions for all kinds of requirements at low cost by working with a team of student developers through 
-<a href="https://pyramiddeveloper.com/" title="Pyramid Developers">Pyramid Developers</a>
- <br>
+
+I lead **Pyramid Developers**, a tech haven where we craft software solutions that are high on efficiency yet low on cost.
+
+<br>
 <br>
 <br>
 
-**I can work with**
+ ## 🛠 Tech Stack
+
+#### Programming Languages
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>			<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>			<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>			<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>			<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+
+#### Back-End
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>		<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>		<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>		<img alt="FastAPI" src="https://img.shields.io/badge/fastapi-%23000.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+#### Front-End
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />		<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+
+
+#### Cloud & DevOps
+<img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>		<img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>		<img alt="Docker" src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>		<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+#### Databases & APIs
+<img alt="SQL" src="https://img.shields.io/badge/sql-%23025E8C.svg?&style=for-the-badge&logo=sql&logoColor=white"/>		<img alt="NoSQL" src="https://img.shields.io/badge/nosql-%23004D61.svg?&style=for-the-badge&logo=nosql&logoColor=white"/>		<img alt="REST API" src="https://img.shields.io/badge/REST%20API-%230077D6.svg?&style=for-the-badge&logo=restapi&logoColor=white"/>
+
+#### Tools & Frameworks
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>		<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>		<img alt="Hadoop" src="https://img.shields.io/badge/hadoop-%230175C2.svg?&style=for-the-badge&logo=hadoop&logoColor=white"/>
+
+<!-- Add more badges as per your tech stack -->
+
+#### Other Skills
+- Shell, Bash
+- Prometheus, Grafana
+- HPC (High-Performance Computing)
+- Postman, Trello, Jira, ZenHub
+- LATEX, HTML, CSS, JS, TypeScript
+
+
+
 <br>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-	<img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-	<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-		<img alt="Google Cloud " src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-			<img alt="Firebase" src="https://img.shields.io/badge/Firebase-orange.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>	
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img alt="Go" src="https://img.shields.io/badge/Go-blue.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-<hr>
+
+## 💼 Experience & Ventures
+
+- **Pyramid Developers**: Spearhead a 35-member team to develop software for 25+ global clients
+  - [Check it out here](https://www.pyramiddeveloper.com)
+  
+- **Maigrate (NYU)**: Pioneered a No-Code platform to create AI copilots
+  - [Try it here](https://maigrate.com)
+
+<details>
+  <summary>NYPD Subway Patrol Placement Analysis (NYU)</summary>
+  
+  ```python
+  # Pseudo-code for crime rate analysis during peak hours
+  def analyze_crime_rate(data):
+      peak_hours_data = filter_peak_hours(data)
+      crime_rate = calculate_crime_rate(peak_hours_data)
+      return crime_rate
+```
+</details>
 
 
 **Reach me through :**
