@@ -3,17 +3,14 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 # I'm Dhruv Shetty
-I'm pursuing my Master's in **Computing, Entrepreneurship, and Innovation** at **New York University**. A technophile and entrepreneur by heart.
+I've recently graduated with a Master's in **Computing, Entrepreneurship, and Innovation** at **New York University**. <br> A technophile and entrepreneur by heart.
   
-<br>
 
 <a href="https://pyramiddeveloper.com/" title="Pyramid Developers"><img img align="left"  src="WhiteLogoTransparent.png" width="80px"/></a>
 
-I lead **Pyramid Developers**, a tech haven where we craft software solutions that are high on efficiency yet low on cost.
+I lead Product Management at **Pyramid Developers**, a tech haven where we craft software solutions for startups. <br> If you have an idea, and are looking to make that a reality, you know where to make it happen!
+ <br>  <br>  <br>   With over 4 years of exprience shaping impactful products, and over 35 different go-to-market solutions built, there is no better place to make your vision a tangible business.  <br> Click on the logo to learn more.
 
-<br>
-<br>
-<br>
 
  ## 🛠 Tech Stack
 
@@ -51,7 +48,10 @@ I lead **Pyramid Developers**, a tech haven where we craft software solutions th
 
 ## 💼 Experience & Ventures
 
-- **Pyramid Developers**: Spearhead a 35-member team to develop software for 25+ global clients
+- **Snacc**: A personalised nutrition guide, prioritising low effort tracking - to make eating healthy as easy as possible!
+  - [Try it here](https://snacc.fit/get)
+
+- **Pyramid Developers**: Leading a 20-member team to develop software for 25+ global clients
   - [Check it out here](https://www.pyramiddeveloper.com)
   
 - **Maigrate (NYU)**: Pioneered a No-Code platform to create AI copilots
