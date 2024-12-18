@@ -3,13 +3,25 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 # I'm Dhruv Shetty
-I've recently graduated with a Master's in **Computing, Entrepreneurship, and Innovation** at **New York University**. <br> A technophile and entrepreneur by heart.
+I graduated with my Master's in **Computing, Entrepreneurship, and Innovation** from **New York University** in December 2022, where I also served as a Teaching Assistant for the DevOps and Agile Methodologies course. A technophile and entrepreneur by heart.
   
+<br>
+
+<a href="https://truemark.dev" title="Truemark"><img img align="left" src="truemark.png" width="80px"/></a>
+
+<br>
+
+I'm currently working as a Founding Engineer at **Truemark**, where we're empowering educators to leverage AI in the classroom. Our platform helps teachers scaffold AI interactions, ensuring students develop critical thinking skills while being exposed to AI in a controlled, educational environment.
+
+<br>
+
+
 
 <a href="https://pyramiddeveloper.com/" title="Pyramid Developers"><img img align="left"  src="WhiteLogoTransparent.png" width="80px"/></a>
 
-I lead Product Management at **Pyramid Developers**, a tech haven where we craft software solutions for startups. <br> If you have an idea, and are looking to make that a reality, you know where to make it happen!
- <br>  <br>  <br>   With over 4 years of exprience shaping impactful products, and over 35 different go-to-market solutions built, there is no better place to make your vision a tangible business.  <br> Click on the logo to learn more.
+I'm the Founder & CEO of **Pyramid Developers**, a tech haven where we help founders realise their dreams by crafting software solutions that are high on efficiency yet low on cost.
+
+<br>
 
 
  ## 🛠 Tech Stack
@@ -21,7 +33,7 @@ I lead Product Management at **Pyramid Developers**, a tech haven where we craft
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>		<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>		<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>		<img alt="FastAPI" src="https://img.shields.io/badge/fastapi-%23000.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 #### Front-End
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />		<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>		<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />		<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
 
 #### Cloud & DevOps
@@ -48,10 +60,13 @@ I lead Product Management at **Pyramid Developers**, a tech haven where we craft
 
 ## 💼 Experience & Ventures
 
-- **Snacc**: A personalised nutrition guide, prioritising low effort tracking - to make eating healthy as easy as possible!
+- **Truemark**: Founding Engineer, building AI tools that empower educators to foster critical thinking while introducing students to AI technology
+  - [Check it out here](https://truemark.ai)
+
+- **Snacc**: Co-Founder, developing an AI-enabled wellness tracker
   - [Try it here](https://snacc.fit/get)
 
-- **Pyramid Developers**: Leading a 20-member team to develop software for 25+ global clients
+- **Pyramid Developers**: Founded and led a 35-member team to develop software for 25+ global clients
   - [Check it out here](https://www.pyramiddeveloper.com)
   
 - **Maigrate (NYU)**: Pioneered a No-Code platform to create AI copilots
