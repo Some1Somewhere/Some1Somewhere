@@ -72,7 +72,7 @@ Full write-ups: [dhruvshetty.com/work/truemark](https://dhruvshetty.com/work/tru
 </p>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Some1Somewhere&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Some1Somewhere&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Dhruv Shetty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Some1Somewhere&count_private=true&theme=tokyonight&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Some1Somewhere&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
