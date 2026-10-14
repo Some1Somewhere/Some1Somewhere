@@ -61,7 +61,6 @@ Full write-ups: [dhruvshetty.com/work/truemark](https://dhruvshetty.com/work/tru
 - [apt-search](https://dhruvshetty.com/apt-search/): built at a 6-person hackathon I hosted. Ranks NYC rentals in our zone by $/person and pings Discord when a new one appears.
 - [We're Not Really Strangers](https://wnrs.dhruvshetty.com): the card game as a website, so it's always in the room.
 - [Statement-Analyzer](https://github.com/Some1Somewhere/Statement-Analyzer): Gemini reads credit-card PDF statements, categorises every line, merges Splitwise, writes one CSV.
-- Job applier: a Claude Code plugin that applies to the easy jobs each weekday morning and drafts the hard ones for review. v0.1, private for now.
 
 <br>
 
